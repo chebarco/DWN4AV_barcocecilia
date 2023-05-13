@@ -1,0 +1,77 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(88, 85, 85)
+}
+
+a{
+    color: rgb(88, 85, 85) !important;;
+    font-size: 12px !important;;
+    font-weight: bold !important;;
+    text-decoration: none !important;;
+}
+
+li{
+    list-style: none !important;;
+}
+h1{
+    font-size: 24px !important;
+    margin-top: 20px !important;
+    text-align: center;
+}
+
+h2{
+    font-size: 18px !important;
+    margin-top: 20px !important;
+    text-align: center;
+}
+
+.list-group{
+    margin-top: 50px !important;
+}
+
+.tarjeta{
+    margin-top: 150px !important;
+
+}
+
+/* Path: public/css/estilos.css */
+.card{
+    margin-top: 20px !important;
+    margin-left: 20px !important;
+}
+
+.card-text{
+    font-size: 14px !important;
+}
+.card-text-p{
+    font-size: 10px !important;
+}
+
+.btn{
+    background-color: grey !important;
+    color: white !important;
+}
+
+.navback{
+    border: solid 0.25px rgb(187, 187, 187) ;
+
+}
+.nav-a{
+    margin-left: 50px;
+}
+
+.stock{
+    color: red !important;
+    font-weight: bold !important;
+}
+
+.caja{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.titulo{
+    margin-top: 50px;
+    margin-left: 20px;
+}
